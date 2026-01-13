@@ -187,5 +187,18 @@ CRM integration (HubSpot, Salesforce)
 
 Lead scoring with AI
 
+“MCP Client Workflow – Lead Qualification Chatbot”
+
 <img width="959" height="407" alt="chatbot" src="https://github.com/user-attachments/assets/dd9d26b7-5238-4178-af76-3abebf7ed87d" />
+
+
+" MCP Server Workflow "
+<img width="954" height="446" alt="chatbot5" src="https://github.com/user-attachments/assets/dc51211f-4ab1-4556-aef6-fb93a694b02b" />
+
+
+<img width="905" height="442" alt="chatbot4" src="https://github.com/user-attachments/assets/87ac0ab5-ed6b-4e1b-9507-5baa30c0e593" />
+<img width="956" height="446" alt="chatbot2" src="https://github.com/user-attachments/assets/6913b05f-20cf-4a18-bbcb-31090eb789fa" />
+<img width="959" height="479" alt="chatbot3" src="https://github.com/user-attachments/assets/7fe2c6f2-7e5d-47bd-b32a-dc99e3eb218f" />
+
+
 
