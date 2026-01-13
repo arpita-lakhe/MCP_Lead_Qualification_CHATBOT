@@ -187,6 +187,5 @@ CRM integration (HubSpot, Salesforce)
 
 Lead scoring with AI
 
-Calendar integration<img width="905" height="442" alt="chatbot4" src="https://github.com/user-attachments/assets/e1b2b3d1-feb0-4c63-a7dc-a2d2d81e8415" />
-<img width="959" height="479" alt="chatbot3" src="https://github.com/user-attachments/assets/f3d33714-cbcd-4fc2-bf57-405430d3f5b5" />
-<img width="956" height="446" alt="chatbot2" src="https://github.com/user-attachments/assets/a84e8dfa-d41b-472b-acbc-b6ea5cee6c99" />
+<img width="959" height="407" alt="chatbot" src="https://github.com/user-attachments/assets/dd9d26b7-5238-4178-af76-3abebf7ed87d" />
+
